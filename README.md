@@ -1,5 +1,5 @@
 
->   <img align="center"  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=00ff00&repeat=true&width=800&lines=git+commit+-m+%22Implemented+the+thing%2C+the+the+thing%2C+yes+uhh%22;git+commit+-m+%22Added+support+for+pointers+and+they+definitely+work+trust+me%22;git+commit+-m+%22Fixed+pointers+ok+for+real+now+tho%2C+maybe%2C+i+hope%22;git+commit+-m+%22Tetris+break+🙂%22;git+commit+-m+%22It+is+2am+and+NOTHING+WORKS+STILL%22;git+commit+-m+%22I+Bury+the+liiight+deep+withiiin%22;git+commit+-m+%22I+AM+GOING+INSANE%22;git+commit+-m+%22wait+ok+it+works+now+i+am+such+a+good+programmer%22"/>
+>   <img align="center"  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=00ff00&repeat=true&width=800&lines=git+commit+-m+%22Implemented+the+thing%2C+the+the+thing%2C+yes+uhh%22;git+commit+-m+%22Added+support+for+pointers+and+they+definitely+work+trust+me%22;git+commit+-m+%22Fixed+pointers+ok+for+real+now+tho%2C+maybe%2C+i+hope%22;git+commit+-m+%22Tetris+break+🙂%22;git+commit+-m+%22It+is+2am+and+NOTHING+WORKS+STILL%22;git+commit+-m+%22Bury+the+liiight+deep+withiiin%22;git+commit+-m+%22I+AM+GOING+INSANE%22;git+commit+-m+%22wait+ok+it+works+now+i+am+such+a+good+programmer%22"/>
 
 <h1 align="center">Evryon</h1>
 
