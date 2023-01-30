@@ -1,5 +1,5 @@
 
-  <img align="center"  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=00ff00&repeat=true&width=800&lines=git+commit+-m+%22Implemented+the+thing%2C+the+the+thing%2C+yes+uhh%22;git+commit+-m+%22Added+support+for+pointers+and+they+definitely+work+trust+me%22;git+commit+-m+%22Fixed+pointers+ok+for+real+now+tho%2C+maybe%2C+i+hope%22;git+commit+-m+%22It+is+2am+and+NOTHING+WORKS+STILL%22;git+commit+-m+%22I+AM+GOING+INSANE%22;git+commit+-m+%22wait+ok+it+works+now+i+am+such+a+good+programmer%22"/>
+>   <img align="center"  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=00ff00&repeat=true&width=800&lines=git+commit+-m+%22Implemented+the+thing%2C+the+the+thing%2C+yes+uhh%22;git+commit+-m+%22Added+support+for+pointers+and+they+definitely+work+trust+me%22;git+commit+-m+%22Fixed+pointers+ok+for+real+now+tho%2C+maybe%2C+i+hope%22;git+commit+-m+%22Tetris+break+🙂%22;git+commit+-m+%22It+is+2am+and+NOTHING+WORKS+STILL%22;git+commit+-m+%22I+Bury+the+liiight+deep+withiiin%22;git+commit+-m+%22I+AM+GOING+INSANE%22;git+commit+-m+%22wait+ok+it+works+now+i+am+such+a+good+programmer%22"/>
 
 <h1 align="center">Evryon</h1>
 
@@ -42,19 +42,39 @@
     <img align="center" style="height: 70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>&nbsp&nbsp&nbsp
     <img align="center" style="height: 70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png"/>&nbsp&nbsp&nbsp
     <img align="center" style="height: 70px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>&nbsp&nbsp&nbsp
-    <img align="center" style="height: 70px" src=""/>&nbsp&nbsp&nbsp
-    <img align="center" style="height: 70px" src=""/>&nbsp&nbsp&nbsp
 </div>
 
 
 <div align="center">
   <h2>Stats</h2>
-  <div>
-    <h3 align="left">I want to try to submit more pull requests and contribute<br>more to the open source community in 2023</h3>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Evryon75&show_icons=true&theme=dark&text_color=9c9c9c&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909"/>
+  <div align="left">
+    <p align="center">
+      <img align="right" top="500" src="https://github-readme-stats.vercel.app/api?username=Evryon75&show_icons=true&theme=dark&text_color=9c9c9c&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909">
+    </p>
+    <br>
+    <h3 align="left">In 2023 i will:</h3>
+    • Try to submit pull requests<br>
+    • Contribute to the open source community<br>
+    • Focus on my personal projects more<br>
   </div>
   <br>
-  <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evryon75&show_icons=true&theme=dark&text_color=9c9c9c&border_color=ffffff&icon_color=ff0000&exclude_repo=Platformer-in-GameMakerStudio2&langs_count=5&bg_color=40,202020,101010,090909"/>
+  <div>
+    <p align="center">
+    <br>
+    <br>
+      <img align="left" top="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evryon75&show_icons=true&theme=dark&text_color=9c9c9c&border_color=ffffff&icon_color=ff0000&exclude_repo=Platformer-in-GameMakerStudio2&langs_count=5&bg_color=40,202020,101010,090909">
+    </p>
+    <div align="center">
+      <h3 align="center">Tech i will be learning in 2023:</h3>
+      <img align="center" style="height: 70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png"/>&nbsp&nbsp&nbsp
+      <img align="center" style="height: 70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Zig_programming_language_logo.svg/2560px-Zig_programming_language_logo.svg.png"/>&nbsp&nbsp&nbsp
+    </div>
+    <div align="center">
+      &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+      <img align="center" style="height: 70px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"/>&nbsp&nbsp&nbsp
+      <img align="center" style="height: 70px" src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png"/>&nbsp&nbsp&nbsp
+      <img align="center" style="height: 140px" src="https://kit.svelte.dev/_app/immutable/assets/svelte-kit-machine-3af040cb.png"/>&nbsp&nbsp&nbsp
+      <img align="center" style="height: 70px" src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/rust.svg"/>&nbsp&nbsp&nbsp
+    </div>
   </div>
 </div>
