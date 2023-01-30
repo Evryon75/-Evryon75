@@ -5,9 +5,10 @@
 
 <div align="center">
 <img align="center" style="height: 180px" src="https://github-profile-trophy.vercel.app/?username=Evryon75&no-bg=true&theme=onestar&margin-w=7&margin-h=7&row=1&column=3&no-frame=true"/>
-<img align="center" style="height: 150px" src="https://github-profile-trophy.vercel.app/?username=Evryon75&no-bg=true&theme=onestar&margin-w=7&margin-h=7&row=1&column=3&no-frame=true&title=Stars,Followers,Issues"/>
+<img align="center" style="height: 150px" src="https://github-profile-trophy.vercel.app/?username=Evryon75&no-bg=true&theme=onestar&margin-w=7&margin-h=7&row=1&column=3&no-frame=true&title=Stars,Followers,Issues"/><br>
+  Sadly many of the commits, and much of the history behind some of my work is lost,<br>as i had to upload the projects from another account i will not disclose.<br>
+  Most of them were pretty much like the gif of commits above, so not much is lost i guess.
 </div>
-
 
 <div align="center">
   <h2>Languages</h2>
