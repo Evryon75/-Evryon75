@@ -16,8 +16,8 @@
 </div>
 <div align="center">
     <div align="center">
-    <img align="center" style="height: 70px;"  src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/rust.svg"/>&nbsp&nbsp&nbsp
     <img align="center" style="height: 70px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"/>&nbsp&nbsp&nbsp
+    <img align="center" style="height: 70px;"  src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/rust.svg"/>&nbsp&nbsp&nbsp
     <img align="center" style="height: 70px" src="https://static.cdnlogo.com/logos/c/27/c.svg"/>&nbsp&nbsp&nbsp
     <img align="center" style="height: 70px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"/>&nbsp&nbsp&nbsp
     <img align="center" style="height: 70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>&nbsp&nbsp&nbsp
