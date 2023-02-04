@@ -2,7 +2,6 @@
 
 <h1 align="center">Evryon</h1>
 
-
 ```rust
 174 |   fn wake_up() {
 175 |         // school(); breaks everything
@@ -191,4 +190,3 @@
   **Motherboard**: MSI PRO B550-P GEN3<br>
   
 </div>
-
