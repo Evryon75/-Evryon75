@@ -93,30 +93,6 @@ fn wake_up() {
 <br>
 
 <div align="center">
-  <h2>Projects</h2>
-</div>
-<h3 align="center">2023</h3>
-
-- [ ] `Clarissa` Operating System » Rust (Current project)
-- [ ] `Crimson Rose` programming language (another one yes) » Rust
-- [ ] Fully fledged 3D engine » Probably in Go
-- [ ] Portfolio » Vanilla, Vite, Three.js
-+ Im thinking, 3D environment, cyberpunk themed, giant ad panel monitors with my works displayed, clicking them opens an interface explaining it. Might ray trace it.
-- [ ] Car drifting game » Unity
-+ I was looking at a classmate while he was playing an online car drifting game, and as we started making fun of its goofy physics i said<br>"i could make this i think..." so here we are.
-- [ ] NES Tetris remake » Zig
-- [ ] Tetris (again) » Rust
-- [ ] Tetris inspired programming language » Rust
-+ Can you tell i like Tetris?
-- [ ] Vertical scrolling rhythm game » Rust
-
-<h3 align="center">2022</h3>
-
-- [ ] committing rn so i dont lose the progress so far  » Rust
-
-<br>
-
-<div align="center">
   <h2>Stats</h2>
   <div align="left">
     <p align="center">
@@ -149,3 +125,33 @@ fn wake_up() {
     </div>
   </div>
 </div>
+
+<br>
+
+<div align="center">
+  <h2>Projects</h2>
+</div>
+<h3 align="center">2023</h3>
+
+- [ ] `Clarissa` Operating System » Rust (Current project)
+- [ ] `Crimson Rose` programming language (another one yes) » Rust, LLVM
+- [ ] Fully fledged 3D engine » Probably in Go
+- [ ] Portfolio » Vanilla, Vite, Three.js
++ Im thinking, 3D environment, cyberpunk themed, giant ad panel monitors with my works displayed, clicking them opens an interface explaining it. Might ray trace it.
+- [ ] Car drifting game » Unity
++ I was looking at a classmate while he was playing an online car drifting game, and as we started making fun of its goofy physics i said<br>"i could make this i think..." so here we are.
+- [ ] NES Tetris remake » Zig
+- [ ] Tetris (again) » Rust
+- [ ] Tetris inspired programming language » Rust
++ Can you tell i like Tetris?
+- [ ] Vertical scrolling rhythm game » Rust
+
+<h3 align="center">2022</h3>
+
+- [x] Ev programming language » Rust (https://github.com/Evryon75/Ev-Interpreter)
+- [x] Ev lang documentation » Angular.js (https://github.com/Evryon75/Ev-Lang-Documentation, website: https://evryon75.github.io/Ev-Lang-Documentation/)
+- [x] Sussy Squares » Java (https://github.com/Evryon75/Sussy-Squares)
+- [x] Conway's Game of Life » Java (https://github.com/Evryon75/Conway-s-Game-of-Life)
+- [x] Red Square Jumping » Unity (https://github.com/Evryon75/Red-Square-Jumping)
+- [x] Pin Manager » Java, Discord bot (https://github.com/Evryon75/Pin-Manager_Discord-Bot)
+- [x] Homing Object » Java (https://github.com/Evryon75/Homing-Object)
