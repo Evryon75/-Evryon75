@@ -39,10 +39,18 @@
 <div align="center">
     <img align="center" style="height: 70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"/>&nbsp&nbsp&nbsp
     <img align="center" style="width: 70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png"/>&nbsp&nbsp&nbsp
+    <img align="center" style="height: 70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1024px-WebStorm_Icon.svg.png"/>&nbsp&nbsp&nbsp
+    <img align="center" style="height: 70px" src="https://static-00.iconduck.com/assets.00/clion-icon-512x512-tvyolucv.png"/>&nbsp&nbsp&nbsp
+    <img align="center" style="height: 70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/1200px-JetBrains_Rider_Icon.svg.png"/>&nbsp&nbsp&nbsp
+    <img align="center" style="height: 70px" src="https://camo.githubusercontent.com/d0db72d1498c5aa34ef003bf7ca0c761e314d2fb25c791ac0c9244714cce351e/687474703a2f2f7265736f75726365732e6a6574627261696e732e636f6d2f73746f726167652f70726f64756374732f676f6c616e642f696d672f6d6574612f676f6c616e645f6c6f676f5f333030783330302e706e67"/>&nbsp&nbsp&nbsp
+</div>
+<br>
+<div align="center">
     <img align="center" style="height: 70px" src="https://preview.redd.it/tu3gt6ysfxq71.png?auto=webp&s=10ab55d9dc09e7ed6ea59bd5916800a5272d5969"/>&nbsp&nbsp&nbsp
-    <img align="center" style="height: 70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>&nbsp&nbsp&nbsp
-    <img align="center" style="height: 70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png"/>&nbsp&nbsp&nbsp
     <img align="center" style="height: 70px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>&nbsp&nbsp&nbsp
+    <img align="center" style="height: 70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>&nbsp&nbsp&nbsp
+    <img align="center" style="height: 70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png"/>&nbsp&nbsp&nbsp
+    <img align="center" style="height: 70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png"/>&nbsp&nbsp&nbsp
 </div>
 
 
@@ -63,7 +71,7 @@
     <p align="center">
     <br>
     <br>
-      <img align="left" top="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evryon75&show_icons=true&theme=dark&text_color=9c9c9c&border_color=ffffff&icon_color=ff0000&exclude_repo=Platformer-in-GameMakerStudio2&langs_count=5&bg_color=40,202020,101010,090909">
+      <img align="left" top="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evryon75&show_icons=true&theme=dark&text_color=9c9c9c&border_color=ffffff&icon_color=ff0000&&langs_count=5&bg_color=40,202020,101010,090909">
     </p>
     <div align="center">
       <h3 align="center">Tech i will be learning in 2023:</h3>
