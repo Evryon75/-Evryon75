@@ -11,12 +11,22 @@
 718 |         work_out();
 179 |         sleep();
 180 |         wake_up();
-182 |    }
+181 |    }
 ```
 
 <div align="center">
 <img align="center" style="height: 180px" src="https://github-profile-trophy.vercel.app/?username=Evryon75&no-bg=true&theme=onestar&margin-w=7&margin-h=7&row=1&column=3&no-frame=true"/>
 <img align="center" style="height: 150px" src="https://github-profile-trophy.vercel.app/?username=Evryon75&no-bg=true&theme=onestar&margin-w=7&margin-h=7&row=1&column=3&no-frame=true&title=Stars,Followers,Issues"/><br>
+  
+  <h3 align="left">
+    <img title="Italy" align="center" style="height: 30px" src="https://images.emojiterra.com/twitter/v13.1/512px/1f1ee-1f1f9.png"/>&nbsp
+    Im Evryon (Ev for short), or <a href="https://www.youtube.com/watch?v=sLVBCeZ7NjQ">Daniel, and im from Italy</a>.<br>
+    <img title="Coding" align="center" style="height: 30px" src="https://cdn-icons-png.flaticon.com/512/2621/2621040.png"/>&nbsp
+    Im a passionate developer, and although i am going to an IT school in theory, i am mostly self taught.<br>
+    <img title="Interests" align="center" style="height: 30px" src="https://www.iconpacks.net/icons/2/free-star-icon-2768-thumb.png"/>&nbsp
+    I am interested in most STEM fields, mainly neuromorphic engineering, aerospace engineering, astrophysics engineering, maths, computer engineering and computer science.<br>
+  </h3>
+  <br>
   Sadly many of the commits, and much of the history behind some of my work is lost,<br>as i had to upload the projects from another account i will not disclose.<br>
   Most of them were pretty much like the gif of commits above, so not much is lost i guess.
 </div>
@@ -127,6 +137,7 @@
   </div>
 </div>
 
+
 <br>
 
 <div align="center">
@@ -136,6 +147,7 @@
 
 - [ ] `Clarissa` Operating System » Rust (Current project)
 - [ ] `Crimson Rose` programming language (another one yes) » Rust, LLVM
+- [ ] Rewrite the Pin manager bot  » Rust
 - [ ] Fully fledged 3D engine » Probably in Go
 - [ ] Portfolio » Vanilla, Vite, Three.js
 + Im thinking, 3D environment, cyberpunk themed, giant ad panel monitors with my works displayed, clicking them opens an interface explaining it. Might ray trace it.
@@ -157,3 +169,15 @@
 - [x] Red Square Jumping » Unity (https://github.com/Evryon75/Red-Square-Jumping)
 - [x] Pin Manager » Java, Discord bot (https://github.com/Evryon75/Pin-Manager_Discord-Bot)
 - [x] Homing Object » Java (https://github.com/Evryon75/Homing-Object)
+
+<br>
+<h2>Custom built PC Specs</h2>
+<br>
+<br>
+
+<img title="PC" align="right" top="500" src="https://image.apktoy.com/img/ca/com.aminapps.PCBuildingSimulator2/icon.png"/>
+CPU: AMD Ryzen 5 5600 6-Core Processor<br>
+Motherboard: PRO B550-P GEN3<br>
+RAM: 2x16 T-Force<br>
+GPU: NVIDIA GeForce RTX 3080<br>
+PSU: MSI MPG A850GF 850w<br>
