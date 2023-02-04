@@ -176,8 +176,13 @@
 <br>
 
 <img title="PC" align="right" top="500" src="https://image.apktoy.com/img/ca/com.aminapps.PCBuildingSimulator2/icon.png"/>
-CPU: AMD Ryzen 5 5600 6-Core Processor<br>
-Motherboard: PRO B550-P GEN3<br>
-RAM: 2x16 T-Force<br>
-GPU: NVIDIA GeForce RTX 3080<br>
-PSU: MSI MPG A850GF 850w<br>
+<h4>CPU:</h4>
+AMD Ryzen 5 5600 6-Core Processor<br>
+<h4>Motherboard:</h4>
+PRO B550-P GEN3<br>
+<h4>RAM:</h4>
+2x16 T-Force<br>
+<h4>GPU:</h4>
+NVIDIA GeForce RTX 3080<br>
+<h4>PSU:</h4>
+MSI MPG A850GF 850w<br>
