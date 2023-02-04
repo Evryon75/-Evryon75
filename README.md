@@ -33,7 +33,7 @@
 <br>
 
 <div align="center">
-  <h2>Languages</h2>
+  <h1>Languages</h1>
   <p>...in order of proficiency</p>
 </div>
 <div align="center">
@@ -69,7 +69,7 @@
 <br>
 
 <div align="center">
-  <h2>Tools and IDEs</h2>
+  <h1>Tools and IDEs</h1>
 </div>
 <div align="center">
   <div align="center">
@@ -104,7 +104,7 @@
 <br>
 
 <div align="center">
-  <h2>Stats</h2>
+  <h1>Stats</h1>
   <div align="left">
     <p align="center">
       <img align="right" top="500" src="https://github-readme-stats.vercel.app/api?username=Evryon75&show_icons=true&theme=dark&text_color=9c9c9c&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909">
@@ -141,7 +141,7 @@
 <br>
 
 <div align="center">
-  <h2>Projects</h2>
+  <h1>Projects</h1>
 </div>
 <h3 align="center">2023</h3>
 
@@ -171,18 +171,24 @@
 - [x] Homing Object » Java (https://github.com/Evryon75/Homing-Object)
 
 <br>
-<h2>Custom built PC Specs</h2>
-<br>
-<br>
+
+# Custom built PC Specs
 
 <img title="PC" align="right" top="500" src="https://image.apktoy.com/img/ca/com.aminapps.PCBuildingSimulator2/icon.png"/>
-<h4>CPU:</h4>
-AMD Ryzen 5 5600 6-Core Processor<br>
-<h4>Motherboard:</h4>
-PRO B550-P GEN3<br>
-<h4>RAM:</h4>
-2x16 T-Force<br>
-<h4>GPU:</h4>
-NVIDIA GeForce RTX 3080<br>
-<h4>PSU:</h4>
-MSI MPG A850GF 850w<br>
+<div>
+  
+  **CPU**: AMD Ryzen 5 5600 6-Core Processor
+  
+  **GPU**: MSI NVIDIA GeForce RTX 3080<br>
+  
+</div>
+<div>
+  
+  **RAM**: 2x16 T-Force<br>
+  
+  **PSU**: MSI MPG A850GF 850w<br>
+  
+  **Motherboard**: MSI PRO B550-P GEN3<br>
+  
+</div>
+
