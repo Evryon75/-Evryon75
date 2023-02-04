@@ -2,15 +2,16 @@
 
 <h1 align="center">Evryon</h1>
 
+
 ```rust
-fn wake_up() {
-   // school(); breaks everything
-   eat("protein");
-   code(projects[0]);
-   work_out();
-   sleep();
-   wake_up();
-}
+174 |   fn wake_up() {
+175 |         // school(); breaks everything
+176 |         eat("protein");
+177 |         code(projects[0]);
+718 |         work_out();
+179 |         sleep();
+180 |         wake_up();
+182 |    }
 ```
 
 <div align="center">
@@ -84,7 +85,7 @@ fn wake_up() {
     <img title="Unity" align="center" style="height: 20px" src="https://preview.redd.it/tu3gt6ysfxq71.png?auto=webp&s=10ab55d9dc09e7ed6ea59bd5916800a5272d5969"/>
     I have done a few projects with unity. I am interested in learning Unreal Engine and maybe one day even making my own game engine;<br>
     <img title="Git" align="center" style="height: 20px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
-    I know git enough to use most of its core fucntionality, i dont know the more niche commands. I do know of interactive rebase;<br>
+    I know git enough to use most of its core functionality, i dont know the more niche commands. I do know of interactive rebase;<br>
     <img title="Visual Studio Code" align="center" style="height: 20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>
     Visual Studio Code is a great general purpose IDE, i have used it a lot with many languages;<br>
   </p>
@@ -149,7 +150,8 @@ fn wake_up() {
 <h3 align="center">2022</h3>
 
 - [x] Ev programming language » Rust (https://github.com/Evryon75/Ev-Interpreter)
-- [x] Ev lang documentation » Angular.js (https://github.com/Evryon75/Ev-Lang-Documentation, website: https://evryon75.github.io/Ev-Lang-Documentation/)
+- [x] Ev lang documentation » Angular.js (https://github.com/Evryon75/Ev-Lang-Documentation)
++ website: https://evryon75.github.io/Ev-Lang-Documentation/
 - [x] Sussy Squares » Java (https://github.com/Evryon75/Sussy-Squares)
 - [x] Conway's Game of Life » Java (https://github.com/Evryon75/Conway-s-Game-of-Life)
 - [x] Red Square Jumping » Unity (https://github.com/Evryon75/Red-Square-Jumping)
