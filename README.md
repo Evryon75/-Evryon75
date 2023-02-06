@@ -147,7 +147,8 @@
 - [ ] `Clarissa` Operating System » Rust (Current project)
 - [ ] `Crimson Rose` programming language (another one yes) » Rust, LLVM
 - [ ] Rewrite the Pin manager bot  » Rust
-- [ ] Fully fledged 3D engine » Probably in Go
+- [ ] 3D engine » Probably in Go
+- [ ] 3D Physics engine » Rust
 - [ ] Portfolio » Vanilla, Vite, Three.js
 + Im thinking, 3D environment, cyberpunk themed, giant ad panel monitors with my works displayed, clicking them opens an interface explaining it. Might ray trace it.
 - [ ] Car drifting game » Unity
