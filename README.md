@@ -172,10 +172,10 @@
 > https://evryon75.github.io/Ev-Lang-Documentation/
 
 
-- [x] Sussy Squares » Java
+- [x] Sussy Squares » Java, JavaFx
 <br><br><a href="https://github.com/Evryon75/Sussy-Squares"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Evryon75&repo=Sussy-Squares&theme=dark&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909"/></a>
 
-- [x] Conway's Game of Life » Java
+- [x] Conway's Game of Life » Java, JavaFx
 <br><br><a href="https://github.com/Evryon75/Conway-s-Game-of-Life"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Evryon75&repo=Conway-s-Game-of-Life&theme=dark&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909"/></a>
 
 - [x] Red Square Jumping » Unity
@@ -184,10 +184,10 @@
 - [x] Pin Manager » Java, Discord bot
 <br><br><a href="https://github.com/Evryon75/Pin-Manager_Discord-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Evryon75&repo=Pin-Manager_Discord-Bot&theme=dark&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909"/></a>
 
-- [x] Pin Manager » Java, Discord bot
-<br><br><a href="https://github.com/Evryon75/FxTris"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Evryon75&repo=https://github.com/Evryon75/FxTris&theme=dark&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909"/></a>
+- [x] FxTris » Java, JavaFx
+<br><br><a href="https://github.com/Evryon75/FxTris"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Evryon75&repo=FxTris&theme=dark&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909"/></a>
 
-- [x] Homing Object » Java
+- [x] Homing Object » Java, JavaFx
 <br><br><a href="https://github.com/Evryon75/Homing-Object"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Evryon75&repo=Homing-Object&theme=dark&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909"/></a>
 
 <br>
