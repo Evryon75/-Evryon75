@@ -184,6 +184,9 @@
 - [x] Pin Manager » Java, Discord bot
 <br><br><a href="https://github.com/Evryon75/Pin-Manager_Discord-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Evryon75&repo=Pin-Manager_Discord-Bot&theme=dark&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909"/></a>
 
+- [x] Pin Manager » Java, Discord bot
+<br><br><a href="https://github.com/Evryon75/FxTris"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Evryon75&repo=https://github.com/Evryon75/FxTris&theme=dark&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909"/></a>
+
 - [x] Homing Object » Java
 <br><br><a href="https://github.com/Evryon75/Homing-Object"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Evryon75&repo=Homing-Object&theme=dark&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909"/></a>
 
