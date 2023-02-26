@@ -53,7 +53,7 @@
     <img title="Julia" align="center" style="height: 70px" src="https://abrudz.github.io/logos/Julia.svg"/>&nbsp&nbsp&nbsp
   </div><br>
   <p align="left">
-    <img title="Rust" align="center" style="height: 20px;" src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/rust.svg"/>
+    <img title="Rust" align="center" style="height: 20px;" src="https://miro.medium.com/max/808/1*2PuuI_EC4YDzxdBVFp5SnQ.png"/>
     Rust is my favourite language, im still learning it and whenever i use other languages i miss Rust;<br>
     <img title="C Sharp" align="center" style="height: 20px" src="https://static.cdnlogo.com/logos/c/27/c.svg"/>
     C# is not up there just because it is "Microsoft Java", i use it with Unity. I prefer it to Java aswell;<br>
