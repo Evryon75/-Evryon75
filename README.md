@@ -37,7 +37,7 @@
 </div>
 <div align="center">
   <div align="center">
-    <img title="Rust" align="center" style="height: 70px;" src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/rust.svg"/>&nbsp&nbsp&nbsp
+    <img title="Rust" align="center" style="height: 80px;" src="https://miro.medium.com/max/808/1*2PuuI_EC4YDzxdBVFp5SnQ.png"/>&nbsp&nbsp&nbsp
     <img title="Java" align="center" style="height: 70px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"/>&nbsp&nbsp&nbsp
     <img title="Python" align="center" style="height: 70px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"/>&nbsp&nbsp&nbsp
     <img title="C Sharp" align="center" style="height: 70px" src="https://static.cdnlogo.com/logos/c/27/c.svg"/>&nbsp&nbsp&nbsp
@@ -131,7 +131,7 @@
       <img title="C" align="center" style="height: 70px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"/>&nbsp&nbsp&nbsp
       <img title="C++" align="center" style="height: 70px" src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png"/>&nbsp&nbsp&nbsp
       <img title="Svelte Kit" align="center" style="height: 140px" src="https://kit.svelte.dev/_app/immutable/assets/svelte-kit-machine-3af040cb.png"/>&nbsp&nbsp&nbsp
-      <img title="Rust" align="center" style="height: 70px" src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/rust.svg"/>&nbsp&nbsp&nbsp
+      <img title="Rust" align="center" style="height: 90px" src="https://miro.medium.com/max/808/1*2PuuI_EC4YDzxdBVFp5SnQ.png"/>&nbsp&nbsp&nbsp
     </div>
   </div>
 </div>
