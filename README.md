@@ -152,7 +152,6 @@
 - [ ] 3D engine » Probably in Go
 - [ ] 3D Physics engine » Rust
 - [ ] Portfolio » Vanilla, Vite, Three.js
-+ Im thinking, 3D environment, cyberpunk themed, giant ad panel monitors with my works displayed, clicking them opens an interface explaining it. Might ray trace it.
 - [ ] Car drifting game » Unity
 + I was looking at a classmate while he was playing an online car drifting game, and as we started making fun of its goofy physics i said<br>"i could make this i think..." so here we are.
 - [ ] NES Tetris remake » Zig
