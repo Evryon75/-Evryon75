@@ -15,7 +15,7 @@
 
 <div align="center">
 <img align="center" style="height: 180px" src="https://github-profile-trophy.vercel.app/?username=Evryon75&no-bg=true&theme=onestar&margin-w=7&margin-h=7&row=1&column=3&no-frame=true"/>
-<img align="center" style="height: 150px" src="https://github-profile-trophy.vercel.app/?username=Evryon75&no-bg=true&theme=onestar&margin-w=7&margin-h=7&row=1&column=3&no-frame=true&title=Stars,Friends,Issues"/><br>
+<img align="center" style="height: 150px" src="https://github-profile-trophy.vercel.app/?username=Evryon75&no-bg=true&theme=onestar&margin-w=7&margin-h=7&row=1&column=3&no-frame=true&title=Stars,Followers,Issues"/><br>
   
   <h3 align="left">
     <img title="Italy" align="center" style="height: 30px" src="https://images.emojiterra.com/twitter/v13.1/512px/1f1ee-1f1f9.png"/>&nbsp   
