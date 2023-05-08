@@ -148,7 +148,9 @@
 <br><br><a href="https://github.com/Evryon75/Clarissa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Evryon75&repo=Clarissa&theme=dark&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909"/></a>
 
 - [ ] `Crimson Rose` programming language (another one yes) » Rust, LLVM
-- [ ] Rewrite the Pin manager bot  » Rust
+- [x] Rewrite the Pin manager bot  » Rust
+<br><br><a href="https://github.com/Evryon75/Ev-Interpreter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Evryon75&repo=Pin-Bot-v2&theme=dark&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909"/></a>
+
 - [ ] 3D engine » Probably in Go
 - [ ] 3D Physics engine » Rust
 - [ ] Portfolio » Vanilla, Vite, Three.js
