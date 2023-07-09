@@ -144,7 +144,9 @@
 </div>
 <h3 align="center">2023</h3>
 
-- [ ] `Clarissa` Operating System » Rust (Current project)
+- [ ] Rust to Python transpiler » Rust (current project)
+<br><br><a href="https://github.com/Evryon75/Clarissa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Evryon75&repo=Writhe&theme=dark&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909"/></a>
+- [ ] `Clarissa` Operating System » Rust 
 <br><br><a href="https://github.com/Evryon75/Clarissa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Evryon75&repo=Clarissa&theme=dark&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909"/></a>
 
 - [ ] `Crimson Rose` programming language (another one yes) » Rust, LLVM
