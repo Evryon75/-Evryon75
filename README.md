@@ -23,7 +23,7 @@
     <img title="Coding" align="center" style="height: 30px; width: 30px" src="https://cdn-icons-png.flaticon.com/512/2621/2621040.png"/>&nbsp
     Im a passionate developer, and although i am going to an IT school in theory, i am mostly self taught.<br>
     <img title="Interests" align="center" style="height: 30px" src="https://www.iconpacks.net/icons/2/free-star-icon-2768-thumb.png"/>&nbsp
-    I am interested in most STEM fields, mainly neuromorphic engineering, aerospace engineering, astrophysics engineering, maths, computer engineering and computer science.<br>
+    I am interested in most STEM fields, mainly computer engineering and computer science.<br>
   </h3>
   <br>
   Sadly many of the commits, and much of the history behind some of my work is lost,<br>as i had to upload the projects from another account i will not disclose.<br>
