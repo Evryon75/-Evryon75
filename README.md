@@ -77,7 +77,7 @@
       <img title="WebStorm" align="center" style="height: 70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1024px-WebStorm_Icon.svg.png"/>&nbsp&nbsp&nbsp
       <img title="Clion" align="center" style="height: 70px" src="https://static-00.iconduck.com/assets.00/clion-icon-512x512-tvyolucv.png"/>&nbsp&nbsp&nbsp
       <img title="Rider" align="center" style="height: 70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/1200px-JetBrains_Rider_Icon.svg.png"/>&nbsp&nbsp&nbsp
-      <img title="GoLand" align="center" style="height: 70px" src="https://camo.githubusercontent.com/d0db72d1498c5aa34ef003bf7ca0c761e314d2fb25c791ac0c9244714cce351e/687474703a2f2f7265736f75726365732e6a6574627261696e732e636f6d2f73746f726167652f70726f64756374732f676f6c616e642f696d672f6d6574612f676f6c616e645f6c6f676f5f333030783330302e706e67"/>&nbsp&nbsp&nbsp
+      <img title="GoLand" align="center" style="height: 70px" src="https://dl.flathub.org/media/com/jetbrains/GoLand/299304436dc88c9c95bea8a49c6c4e57/icons/128x128@2/com.jetbrains.GoLand.png"/>&nbsp&nbsp&nbsp
   </div>
   <br>
   <div align="center">
@@ -109,10 +109,10 @@
       <img align="right" top="500" src="https://github-readme-stats.vercel.app/api?username=Evryon75&show_icons=true&theme=dark&text_color=9c9c9c&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909">
     </p>
     <br>
-    <h3 align="left">In 2023 i will:</h3>
-    • Try to submit pull requests<br>
-    • Contribute to the open source community<br>
-    • Focus on my personal projects more<br>
+    <h3 align="left">In 2024 i will:</h3>
+    • Make my portfolio<br>
+    • Make that music blog<br>
+    • Begin attending university<br>
   </div>
   <br>
   <div>
@@ -122,7 +122,7 @@
       <img align="left" top="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evryon75&show_icons=true&theme=dark&text_color=9c9c9c&border_color=ffffff&icon_color=ff0000&&langs_count=5&bg_color=40,202020,101010,090909">
     </p>
     <div align="center">
-      <h3 align="center">Tech i will be learning in 2023:</h3>
+      <h3 align="center">Tech i am interested in learning</h3>
       <img title="GoLang" align="center" style="height: 70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png"/>&nbsp&nbsp&nbsp
       <img title="Zig" align="center" style="height: 70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Zig_programming_language_logo.svg/2560px-Zig_programming_language_logo.svg.png"/>&nbsp&nbsp&nbsp
     </div>
@@ -130,7 +130,7 @@
       &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
       <img title="C" align="center" style="height: 70px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"/>&nbsp&nbsp&nbsp
       <img title="C++" align="center" style="height: 70px" src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png"/>&nbsp&nbsp&nbsp
-      <img title="Svelte Kit" align="center" style="height: 140px" src="https://kit.svelte.dev/_app/immutable/assets/svelte-kit-machine.b43eaaae.png"/>&nbsp&nbsp&nbsp
+      <img title="Svelte Kit" align="center" style="height: 140px" src="https://kit.svelte.dev/_app/immutable/assets/svelte-kit-machine.D9RaRv8H.png"/>&nbsp&nbsp&nbsp
       <img title="Rust" align="center" style="height: 90px" src="https://miro.medium.com/max/808/1*2PuuI_EC4YDzxdBVFp5SnQ.png"/>&nbsp&nbsp&nbsp
     </div>
   </div>
@@ -144,13 +144,11 @@
 </div>
 
 
-- [ ] `Crimson Rose` programming language (another one yes) » Rust, LLVM
-- [ ] `letsgoski` 3D engine » Probably in Go
+- [ ] `Ev's Music Yap` Music yapping blog i guess? » Svelte, MongoDB 
 - [ ] Portfolio » Vanilla, Vite, Three.js
-- [ ] Car drifting game » Unity
-+ I was looking at a classmate while he was playing an online car drifting game, and as we started making fun of its goofy physics i said<br>"i could make this i think..." so here we are.
+- [ ] `Crimson Rose` programming language (another one yes) » Rust, LLVM
 - [ ] `Tetrust` Tetris (again) » Rust
-+ Can you tell i like Tetris? And langdev?
+- [ ] `letsgoski` 3D engine » Probably in Go
 - [x] `Writhe` Rust to Python transpiler » Rust
 <br><br><a href="https://github.com/Evryon75/Clarissa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Evryon75&repo=Writhe&theme=dark&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909"/></a>
 
