@@ -4,7 +4,7 @@
 
 ```rust
 174 |   fn wake_up() {
-175 |         // school(); breaks everything
+175 |         // school(); DEPRECATED!
 176 |         eat("protein");
 177 |         code(projects[0]);
 178 |         work_out();
