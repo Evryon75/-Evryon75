@@ -34,10 +34,45 @@
     Most of them were pretty much like the gif of commits above, so not much is lost i guess.
   </details>
 </div>
+<div align="center">
+  <h1>Stats</h1>
+  <div align="left">
+    <p align="center">
+      <br>
+      <img align="right" top="800" src="https://github-readme-stats.vercel.app/api?username=Evryon75&show_icons=true&theme=dark&text_color=9c9c9c&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909">
+    </p>
+    <div align="center">
+      <h3 align="center">Tools i am interested in</h3>
+      <img title="Docker" align="center" style="height: 90px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_logo_icon_146556.png"/>&nbsp&nbsp&nbsp
+      <img title="NGINX" align="center" style="height: 70px" src="https://static-00.iconduck.com/assets.00/file-type-nginx-icon-1793x2048-yt5u3fm7.png"/>&nbsp&nbsp&nbsp
+      <img title="MongoDB" align="center" style="height: 70px" src="https://svgmix.com/uploads/skillicons/5c80e9-mongodb.svg"/>&nbsp&nbsp&nbsp
+      <img title="Redis" align="center" style="height: 80px" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png"/>&nbsp&nbsp&nbsp
+    </div>
+  </div>
+  <br>
+  <div>
+    <p align="center">
+    <br>
+    <br>
+      <img align="left" top="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evryon75&show_icons=true&theme=dark&text_color=9c9c9c&border_color=ffffff&icon_color=ff0000&compact=true&langs_count=5&bg_color=40,202020,101010,090909">
+    </p>
+    <div align="center">
+      <h3 align="center">Tech i am interested in</h3>
+      <img title="GoLang" align="center" style="height: 70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png"/>&nbsp&nbsp&nbsp
+      <img title="Zig" align="center" style="height: 70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Zig_programming_language_logo.svg/2560px-Zig_programming_language_logo.svg.png"/>&nbsp&nbsp&nbsp
+    </div>
+    <div align="center">
+      &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+      <img title="C" align="center" style="height: 70px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"/>&nbsp&nbsp&nbsp
+      <img title="C++" align="center" style="height: 70px" src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png"/>&nbsp&nbsp&nbsp
+      <img title="Svelte Kit" align="center" style="height: 140px" src="https://kit.svelte.dev/_app/immutable/assets/svelte-kit-machine.D9RaRv8H.png"/>&nbsp&nbsp&nbsp
+      <img title="Rust" align="center" style="height: 90px" src="https://miro.medium.com/max/808/1*2PuuI_EC4YDzxdBVFp5SnQ.png"/>&nbsp&nbsp&nbsp
+    </div>
+  </div>
+</div>
 
 <div align="center">
   <h1>Languages</h1>
-  <p>(in order of proficiency)</p>
 </div>
 <div align="center">
   <div align="center">
@@ -54,7 +89,7 @@
     <img title="CSS" align="center" style="height: 70px" src="https://seeklogo.com/images/C/css3-logo-F1923C8D0E-seeklogo.com.png"/>&nbsp&nbsp&nbsp
     <img title="C++" align="center" style="height: 70px" src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png"/>&nbsp&nbsp&nbsp
     <img title="C" align="center" style="height: 70px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"/>&nbsp&nbsp&nbsp
-    <img title="Julia" align="center" style="height: 70px" src="https://abrudz.github.io/logos/Julia.svg"/>&nbsp&nbsp&nbsp
+    <img title="Julia" align="center" style="height: 65px" src="https://abrudz.github.io/logos/Julia.svg"/>&nbsp&nbsp&nbsp
   </div><br>
   <details>
     <summary>Details</summary>
@@ -109,36 +144,3 @@
 </details>
 </div>
 
-<div align="center">
-  <h1>Stats</h1>
-  <div align="left">
-    <p align="center">
-      <img align="right" top="500" src="https://github-readme-stats.vercel.app/api?username=Evryon75&show_icons=true&theme=dark&text_color=9c9c9c&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909">
-    </p>
-    <br>
-    <h3 align="left">In 2024 i will:</h3>
-    • Make my portfolio<br>
-    • Make that music blog<br>
-    • Begin attending university<br>
-  </div>
-  <br>
-  <div>
-    <p align="center">
-    <br>
-    <br>
-      <img align="left" top="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evryon75&show_icons=true&theme=dark&text_color=9c9c9c&border_color=ffffff&icon_color=ff0000&&langs_count=5&bg_color=40,202020,101010,090909">
-    </p>
-    <div align="center">
-      <h3 align="center">Tech i am interested in learning</h3>
-      <img title="GoLang" align="center" style="height: 70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png"/>&nbsp&nbsp&nbsp
-      <img title="Zig" align="center" style="height: 70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Zig_programming_language_logo.svg/2560px-Zig_programming_language_logo.svg.png"/>&nbsp&nbsp&nbsp
-    </div>
-    <div align="center">
-      &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-      <img title="C" align="center" style="height: 70px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"/>&nbsp&nbsp&nbsp
-      <img title="C++" align="center" style="height: 70px" src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png"/>&nbsp&nbsp&nbsp
-      <img title="Svelte Kit" align="center" style="height: 140px" src="https://kit.svelte.dev/_app/immutable/assets/svelte-kit-machine.D9RaRv8H.png"/>&nbsp&nbsp&nbsp
-      <img title="Rust" align="center" style="height: 90px" src="https://miro.medium.com/max/808/1*2PuuI_EC4YDzxdBVFp5SnQ.png"/>&nbsp&nbsp&nbsp
-    </div>
-  </div>
-</div>
