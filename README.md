@@ -21,13 +21,12 @@
     <img title="Italy" align="center" style="height: 30px" src="https://images.emojiterra.com/twitter/v13.1/512px/1f1ee-1f1f9.png"/>&nbsp   
     Im Evryon (Ev for short), or <a href="https://www.youtube.com/watch?v=sLVBCeZ7NjQ">Daniel</a>, and im from Italy.<br>
     <img title="Coding" align="center" style="height: 30px; width: 30px" src="https://cdn-icons-png.flaticon.com/512/2010/2010957.png"/>&nbsp
-    Im a passionate developer, and although i went IT school, i am mostly self taught. I am currently studying computer science and software engineering.<br>
+    Im a passionate developer, and although i went to an IT school, i am mostly self taught. I am currently studying computer science and software engineering.<br>
     <img title="Interests" align="center" style="height: 30px" src="https://www.iconpacks.net/icons/2/free-star-icon-2768-thumb.png"/>&nbsp
     My goal is to live a simple normal life, with a simple IT job, and just keep doing what i love.<br>
     <img title="Projects" align="center" style="height: 30px" src="https://i.pinimg.com/originals/23/29/50/232950c6bddcea84d3415e0ed646dd16.png"/>&nbsp
     Personal projects: <a href="https://github.com/Evryon75/Evryon75/blob/main/PROJECTS.md">PROJECTS.md</a>.<br>
   </h3>
-  <h3 align="center">Personal projects: <a href="https://github.com/Evryon75/Evryon75/blob/main/PROJECTS.md">PROJECTS.md</a></h3>
   <details>
     <summary>Lost commits?</summary>
     <br>
@@ -35,7 +34,6 @@
     Most of them were pretty much like the gif of commits above, so not much is lost i guess.
   </details>
 </div>
-<br>
 
 <div align="center">
   <h1>Languages</h1>
@@ -74,7 +72,6 @@
     </p>
   </details>
 </div>
-<br>
 
 <div align="center">
   <h1>Tools and IDEs</h1>
@@ -111,8 +108,6 @@
   </p>
 </details>
 </div>
-
-<br>
 
 <div align="center">
   <h1>Stats</h1>
