@@ -21,9 +21,9 @@
     <img title="Italy" align="center" style="height: 30px" src="https://images.emojiterra.com/twitter/v13.1/512px/1f1ee-1f1f9.png"/>&nbsp   
     Im Evryon (Ev for short), or <a href="https://www.youtube.com/watch?v=sLVBCeZ7NjQ">Daniel</a>, and im from Italy.<br>
     <img title="Coding" align="center" style="height: 30px; width: 30px" src="https://cdn-icons-png.flaticon.com/512/2621/2621040.png"/>&nbsp
-    Im a passionate developer, and although i am going to an IT school in theory, i am mostly self taught.<br>
+    Im a passionate developer, and although i went IT school, i am mostly self taught. I am currently studying computer science and software engineering.<br>
     <img title="Interests" align="center" style="height: 30px" src="https://www.iconpacks.net/icons/2/free-star-icon-2768-thumb.png"/>&nbsp
-    I am interested in most STEM fields, mainly computer engineering and computer science.<br>
+    My biggest goal is to live a simple normal life, with a simple IT job, and just keep doing what i love.<br>
   </h3>
   <br>
   Sadly many of the commits, and much of the history behind some of my work is lost,<br>as i had to upload the projects from another account i will not disclose.<br>
@@ -142,29 +142,23 @@
 <div align="center">
   <h1>Projects</h1>
 </div>
-<h3 align="center">2023</h3>
 
-- [ ] Rust to Python transpiler » Rust (current project)
-<br><br><a href="https://github.com/Evryon75/Clarissa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Evryon75&repo=Writhe&theme=dark&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909"/></a>
-- [ ] `Clarissa` Operating System » Rust 
-<br><br><a href="https://github.com/Evryon75/Clarissa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Evryon75&repo=Clarissa&theme=dark&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909"/></a>
 
 - [ ] `Crimson Rose` programming language (another one yes) » Rust, LLVM
-- [x] Rewrite the Pin manager bot  » Rust
-<br><br><a href="https://github.com/Evryon75/Ev-Interpreter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Evryon75&repo=Pin-Bot-v2&theme=dark&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909"/></a>
-
-- [ ] 3D engine » Probably in Go
-- [ ] 3D Physics engine » Rust
+- [ ] `letsgoski` 3D engine » Probably in Go
 - [ ] Portfolio » Vanilla, Vite, Three.js
 - [ ] Car drifting game » Unity
 + I was looking at a classmate while he was playing an online car drifting game, and as we started making fun of its goofy physics i said<br>"i could make this i think..." so here we are.
-- [ ] NES Tetris remake » Zig
-- [ ] Tetris (again) » Rust
-- [ ] Tetris inspired programming language » Rust
-+ Can you tell i like Tetris?
-- [ ] Vertical scrolling rhythm game » Rust
+- [ ] `Tetrust` Tetris (again) » Rust
++ Can you tell i like Tetris? And langdev?
+- [x] `Writhe` Rust to Python transpiler » Rust
+<br><br><a href="https://github.com/Evryon75/Clarissa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Evryon75&repo=Writhe&theme=dark&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909"/></a>
 
-<h3 align="center">2022</h3>
+- [x] `Clarissa` Operating System » Rust 
+<br><br><a href="https://github.com/Evryon75/Clarissa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Evryon75&repo=Clarissa&theme=dark&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909"/></a>
+
+- [x] Rewrite the Pin manager bot  » Rust
+<br><br><a href="https://github.com/Evryon75/Ev-Interpreter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Evryon75&repo=Pin-Bot-v2&theme=dark&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909"/></a>
 
 - [x] `Ev` programming language » Rust
 <br><br><a href="https://github.com/Evryon75/Ev-Interpreter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Evryon75&repo=Ev-Interpreter&theme=dark&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909"/></a>
@@ -192,25 +186,3 @@
 
 - [x] Homing Object » Java, JavaFx
 <br><br><a href="https://github.com/Evryon75/Homing-Object"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Evryon75&repo=Homing-Object&theme=dark&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909"/></a>
-
-<br>
-
-# Custom built PC Specs
-
-<img title="PC" align="right" top="500" src="https://image.apktoy.com/img/ca/com.aminapps.PCBuildingSimulator2/icon.png"/>
-<div>
-  
-  **CPU**: AMD Ryzen 5 5600 6-Core Processor
-  
-  **GPU**: MSI NVIDIA GeForce RTX 3080<br>
-  
-</div>
-<div>
-  
-  **RAM**: 2x16 T-Force<br>
-  
-  **PSU**: MSI MPG A850GF 850w<br>
-  
-  **Motherboard**: MSI PRO B550-P GEN3<br>
-  
-</div>
