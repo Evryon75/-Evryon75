@@ -20,20 +20,26 @@
   <h3 align="left">
     <img title="Italy" align="center" style="height: 30px" src="https://images.emojiterra.com/twitter/v13.1/512px/1f1ee-1f1f9.png"/>&nbsp   
     Im Evryon (Ev for short), or <a href="https://www.youtube.com/watch?v=sLVBCeZ7NjQ">Daniel</a>, and im from Italy.<br>
-    <img title="Coding" align="center" style="height: 30px; width: 30px" src="https://cdn-icons-png.flaticon.com/512/2621/2621040.png"/>&nbsp
+    <img title="Coding" align="center" style="height: 30px; width: 30px" src="https://cdn-icons-png.flaticon.com/512/2010/2010957.png"/>&nbsp
     Im a passionate developer, and although i went IT school, i am mostly self taught. I am currently studying computer science and software engineering.<br>
     <img title="Interests" align="center" style="height: 30px" src="https://www.iconpacks.net/icons/2/free-star-icon-2768-thumb.png"/>&nbsp
-    My biggest goal is to live a simple normal life, with a simple IT job, and just keep doing what i love.<br>
+    My goal is to live a simple normal life, with a simple IT job, and just keep doing what i love.<br>
+    <img title="Projects" align="center" style="height: 30px" src="https://i.pinimg.com/originals/23/29/50/232950c6bddcea84d3415e0ed646dd16.png"/>&nbsp
+    Personal projects: <a href="https://github.com/Evryon75/Evryon75/blob/main/PROJECTS.md">PROJECTS.md</a>.<br>
   </h3>
-  <br>
-  Sadly many of the commits, and much of the history behind some of my work is lost,<br>as i had to upload the projects from another account i will not disclose.<br>
-  Most of them were pretty much like the gif of commits above, so not much is lost i guess.
+  <h3 align="center">Personal projects: <a href="https://github.com/Evryon75/Evryon75/blob/main/PROJECTS.md">PROJECTS.md</a></h3>
+  <details>
+    <summary>Lost commits?</summary>
+    <br>
+    Sadly many of the commits, and much of the history behind some of my work is lost,<br>as i had to upload the projects from another account i will not disclose.<br>
+    Most of them were pretty much like the gif of commits above, so not much is lost i guess.
+  </details>
 </div>
 <br>
 
 <div align="center">
   <h1>Languages</h1>
-  <p>...in order of proficiency</p>
+  <p>(in order of proficiency)</p>
 </div>
 <div align="center">
   <div align="center">
@@ -52,18 +58,21 @@
     <img title="C" align="center" style="height: 70px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"/>&nbsp&nbsp&nbsp
     <img title="Julia" align="center" style="height: 70px" src="https://abrudz.github.io/logos/Julia.svg"/>&nbsp&nbsp&nbsp
   </div><br>
-  <p align="left">
-    <img title="Rust" align="center" style="height: 20px;" src="https://miro.medium.com/max/808/1*2PuuI_EC4YDzxdBVFp5SnQ.png"/>
-    Rust is my favourite language, im still learning it and whenever i use other languages i miss Rust;<br>
-    <img title="C Sharp" align="center" style="height: 20px" src="https://static.cdnlogo.com/logos/c/27/c.svg"/>
-    C# is not up there just because it is "Microsoft Java", i use it with Unity. I prefer it to Java aswell;<br>
-    <img title="Python" align="center" style="height: 20px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"/>
-    Python is my least favourite language, it is a complete 180° from Rust, i am never sure if my code is going to do what i want it to;<br>
-    <img title="TypeScript" align="center" style="height: 20px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/>
-    I know some web development, im not an expert but i know enough to pick TypeScript over JavaScript whenever i can;<br>
-    <img title="C" align="center" style="height: 20px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"/>
-    I want to learn low level programming, and systems programming, with C and C++, and also Rust of course.
-  </p>
+  <details>
+    <summary>Details</summary>
+    <p align="left">
+      <img title="Rust" align="center" style="height: 20px;" src="https://miro.medium.com/max/808/1*2PuuI_EC4YDzxdBVFp5SnQ.png"/>
+      Rust is my favourite language, im still learning it and whenever i use other languages i miss Rust;<br>
+      <img title="C Sharp" align="center" style="height: 20px" src="https://static.cdnlogo.com/logos/c/27/c.svg"/>
+      C# is not up there just because it is "Microsoft Java", i use it with Unity. I prefer it to Java aswell;<br>
+      <img title="Python" align="center" style="height: 20px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"/>
+      Python is my least favourite language, it is a complete 180° from Rust, i am never sure if my code is going to do what i want it to;<br>
+      <img title="TypeScript" align="center" style="height: 20px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/>
+      I know some web development, im not an expert but i know enough to pick TypeScript over JavaScript whenever i can;<br>
+      <img title="C" align="center" style="height: 20px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"/>
+      I want to learn low level programming, and systems programming, with C and C++, and also Rust of course.
+    </p>
+  </details>
 </div>
 <br>
 
@@ -88,6 +97,8 @@
       <img title="Visual Studio 2022" align="center" style="height: 70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png"/>&nbsp&nbsp&nbsp
   </div>
   <br>
+  <details>
+  <summary>Details</summary>
   <p align="left">
     <img title="JetBrains" align="center" style="height: 20px;" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png"/>
     Out of the many IDEs i have tried, JetBrains software has always been the best, great refactoring, fast and extensible;<br>
@@ -98,6 +109,7 @@
     <img title="Visual Studio Code" align="center" style="height: 20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>
     Visual Studio Code is a great general purpose IDE, i have used it a lot with many languages;<br>
   </p>
+</details>
 </div>
 
 <br>
