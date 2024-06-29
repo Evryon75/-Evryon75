@@ -3,7 +3,7 @@
 </div>
 
 
-- [ ] `Ev's Music Yap` Music yapping blog i guess? » Svelte, MongoDB 
+- [ ] `Ev's Music Yap` Music yapping blog i guess? » Svelte, MongoDB, Flask
 - [ ] Portfolio » Vanilla, Vite, Three.js
 - [ ] `Crimson Rose` programming language (another one yes) » Rust, LLVM
 - [ ] `Tetrust` Tetris (again) » Rust
