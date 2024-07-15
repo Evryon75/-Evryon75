@@ -3,11 +3,13 @@
 </div>
 
 
-- [ ] `Ev's Music Yap` Music yapping blog i guess? » Svelte, MongoDB, Flask
 - [ ] Portfolio » Vanilla, Vite, Three.js
 - [ ] `Crimson Rose` programming language (another one yes) » Rust, LLVM
 - [ ] `Tetrust` Tetris (again) » Rust
 - [ ] `letsgoski` 3D engine » Probably in Go
+- [x] `Ev's Music Yap` Music yapping blog i guess? » Svelte, MongoDB, Flask
+<br><br><a href="https://github.com/Evryon75/Clarissa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Evryon75&repo=Evs-Music-Yap&theme=dark&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909"/></a>
+
 - [x] `Writhe` Rust to Python transpiler » Rust
 <br><br><a href="https://github.com/Evryon75/Clarissa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Evryon75&repo=Writhe&theme=dark&border_color=ffffff&icon_color=ff0000&ring_color=ff0000&bg_color=40,202020,101010,090909"/></a>
 
